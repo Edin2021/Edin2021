@@ -1,7 +1,8 @@
 # 👋 Hey, I'm Edin Sikira!
 Front End Developer | 🇧🇦 Kakanj, Bosnia and Herzegovina
 📧 edinsikira23@gmail.com | ☎️ +387(0)603294057
-<a href="https://edinsikira.pages.dev" target="_blank">Portfolio Website</a>
+
+<a href="http://example.com/" target="_blank">example</a>
 
 ## 🙌 About Me
 My name is Edin. At 22, I'm a seasoned front-end developer hailing from Bosnia and Herzegovina with three years under my belt. I thrive on diving into diverse projects, tackling unique tasks, and confronting fresh challenges. My drive lies in innovating with the skills I've honed, while also readily embracing new technologies as they arise, tailored to the needs of the project.
