@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Edin Sikira!
 Front End Developer | 🇧🇦 Kakanj, Bosnia and Herzegovina
-📧 edinsikira23@gmail.com | ☎️ +387(0)603294057
+📧 edinsikira5@gmail.com | ☎️ +387(0)603294057
 
 [Portfolio Website](https://edinsikira.pages.dev)
 
