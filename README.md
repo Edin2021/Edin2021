@@ -13,7 +13,7 @@ Besides some simple things in life, like waking up, having breakfast, socializin
 ## 💼 Experience
 
 ### Front End Developer at [Limesharp Internet Ltd.](https://limesharp.net/), London, UK
-#### August 2022 - Present
+#### August 2022 - September 2023
 A significant step in my career journey, Limesharp provided me with valuable exposure to diverse tasks in various environments, fostering growth not only as a developer but also as a team player.
 
 - Developed and maintained production code for client websites using HTML, CSS, SASS, Tailwind, JavaScript, and Vue.js.
