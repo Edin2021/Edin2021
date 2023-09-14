@@ -38,6 +38,8 @@ At Generazia, I deepened my front-end skills by building reusable components and
 - Tailwind CSS
 - Sass
 - Git
+- Storybook
+- Storyblok
 
 ## 🌟 Soft Skills
 - Critical thinking
