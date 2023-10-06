@@ -5,16 +5,16 @@ Front End Developer | 🇧🇦 Kakanj, Bosnia and Herzegovina
 [Portfolio Website](https://edinsikira.com)
 
 ## 🙌 About Me
-My name is Edin. At 22, I'm a seasoned front-end developer hailing from Bosnia and Herzegovina with three years under my belt. I thrive on diving into diverse projects, tackling unique tasks, and confronting fresh challenges. My drive lies in innovating with the skills I've honed, while also readily embracing new technologies as they arise, tailored to the needs of the project.
+My name is Edin. At 22, I'm a seasoned front-end developer from Bosnia and Herzegovina with 3+ years of experience. I enjoy diving into diverse projects, being presented with unique tasks, and being confronted with challenges. I like creating with the skills I've honed, while also embracing new technologies as they come, depending on the needs of a project.
 
-I'm someone who is driven and has a reliable approach when it comes to any task or situation I take on. As a front-end developer, I have an interest in designing visually appealing and functional websites and applications. Additionally, I am adaptable and cooperative in any work setting.
+I'm someone who is driven and has a reliable approach when it comes to any task or situation I undertake. I have a keen interest in designing visually appealing and functional websites and applications. Additionally, I am adaptable, cooperative, and work well in any team environment.
 
-Besides some simple things in life, like waking up, having breakfast, socializing, taking a shower, watching YouTube, etc., I also enjoy participating in activities like going for a hike, hitting the gym, grilling, and occasional travel.
+Besides some simple things in life, like waking up, having breakfast, socializing, taking a shower, watching youtube, etc., I also enjoy participating in activities like going for a hike, hitting the gym, grilling, occasional travel, and pc enthusiasm.
 
 ## 💼 Experience
 
 ### Front End Developer at [Limesharp Internet Ltd.](https://limesharp.net/), London, UK
-#### August 2022 - September 2023
+#### August 2022 - September 2023 (~1.1 years)
 A significant step in my career journey, Limesharp provided me with valuable exposure to diverse tasks in various environments, fostering growth not only as a developer but also as a team player.
 
 - Developed and maintained production code for client websites using HTML, CSS, SASS, Tailwind, JavaScript, and Vue.js.
@@ -42,15 +42,10 @@ At Generazia, I deepened my front-end skills by building reusable components and
 - Storyblok
 
 ## 🌟 Soft Skills
-- Critical thinking
-- Problem-solving
-- Teamwork and collaboration
-- Troubleshooting
-- Observation
-- Resourcefulness
-- Self-management
-- Willingness to learn
-- Positive attitude
-- Research
+- Attention to Detail
+- Effective Communication
+- Adaptability
+- Problem-Solving
+- Time Management
 
 Feel free to 📫 reach out to me for collaboration or inquiries!
